@@ -1,8 +1,8 @@
 # web_scrapping
 
 Taller de Web Scrapping realizado por:
-Nicolás Osorio
-Sergio Gordillo
+Nicolás Osorio-
+Sergio Gordillo-
 Pablo Flórez
 
 Librerias utilizadas:

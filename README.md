@@ -13,4 +13,5 @@ pip install beautifulsoup4
 
 Comandos para importar las librerias:
 from bs4 import BeautifulSoup
+
 from urllib.request import urlopen
